@@ -1,0 +1,10 @@
+
+.App{
+    background-color: hsla(48, 18%, 69%, 0.831); 
+    flex-direction: column;
+    align-items: center;
+    
+}
+.app_body{
+   display: flex;
+} 
